@@ -4,12 +4,6 @@
 This Project helps us to build  a classifier using a simple Convolution Neural Network which can classify normal lung tissues from cancerous.
 Lung cancer is a type of cancer that starts when abnormal cells grow in an uncontrolled way in the lungs.
 
-## Dataset
-
-The link to the dataset is given below :-
-
-**Link :- **
-
 ##  Description
 Cancer is a disease in which cells in the body grow out of control. When cancer starts in the lungs, it is called lung cancer.
 Lung cancer begins in the lungs and may spread to lymph nodes or other organs in the body, such as the brain. Cancer from other organs also may spread to the lungs. When cancer cells spread from one organ to another, they are called metastases.One of the main cause of lung cancer is smoking.
