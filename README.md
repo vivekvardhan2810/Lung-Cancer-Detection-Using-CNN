@@ -1,4 +1,4 @@
-# LUNG CANCER DETECTION :
+# LUNG CANCER DETECTION : 
 
 ### Goal:
 This Project helps us to build  a classifier using a simple Convolution Neural Network which can classify normal lung tissues from cancerous.
